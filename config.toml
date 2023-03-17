@@ -13,7 +13,7 @@ pygmentsCodefencesGuessSyntax = true
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "currently work part-time as a remote AWS Developer tech consultant in Japan from a small district in Indonesia"
+  subtitle = "currently work part-time as a remote AWS Developer for a tech company based in Japan from a small district in Indonesia"
   mainSections = ["post","posts"]
   logo = "img/nova2.png" # Expecting square dimensions
   favicon = "img/letter-n-1.png"

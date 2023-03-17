@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Nova Rizkiyah</title>
+    <link>https://novarizkiyah.github.io/page/</link>
+    <description>Recent content in Pages on Nova Rizkiyah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>novalailatulrizkiyah@gmail.com (Nova Rizkiyah)</managingEditor>
+    <webMaster>novalailatulrizkiyah@gmail.com (Nova Rizkiyah)</webMaster><atom:link href="https://novarizkiyah.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://novarizkiyah.github.io/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>novalailatulrizkiyah@gmail.com (Nova Rizkiyah)</author>
+      <guid>https://novarizkiyah.github.io/page/about/</guid>
+      <description>Greetings, I&amp;rsquo;m Nova Lailatul Rizkiyah, currently working as an AWS Developer tech consultant in Japan (part-time and remote from a small district in East Java, Indonesia). I&amp;rsquo;m honored to be recognized as an AWS Community Builder for two consecutive years and certified as an AWS Cloud Practitioner and AWS Solutions Architect–Associate (SAA).
+I hold both bachelor&amp;rsquo;s and master&amp;rsquo;s degrees in physics from Institut Teknologi Bandung (Bandung Institute of Technology, Indonesia). Despite my educational background and as a housewife + mother every day, I have ventured into exploring other areas such as Cloud Computing, Linux-based systems, information technology, and hobbies.</description>
+    </item>
+    
+  </channel>
+</rss>
