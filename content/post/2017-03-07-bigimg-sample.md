@@ -3,7 +3,8 @@ title: Big Image Sample
 subtitle: Using Multiple Images
 date: 2017-03-07
 tags: ["example", "bigimg"]
-bigimg: [{src: "/img/triangle.jpg", desc: "Triangle"}, {src: "/img/sphere.jpg", desc: "Sphere"}, {src: "/img/hexagon.jpg", desc: "Hexagon"}]
+# bigimg: [{src: "/img/triangle.jpg", desc: "Triangle"}, {src: "/img/sphere.jpg", desc: "Sphere"}, {src: "/img/nova2.png", desc: "Hexagon"}]
+bigimg: [{src: "/img/cosmos-6680031.jpg"}]
 ---
 
 The image banners at the top of the page are refered to as "bigimg" in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.
