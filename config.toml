@@ -1,4 +1,4 @@
-baseurl = "https://novarizkiyah.github.io"
+baseurl = ""
 DefaultContentLanguage = "en"
 title = "Nova Rizkiyah"
 theme = "beautifulhugo"
@@ -45,7 +45,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Nova Rizkiyah"
-  website = "yourwebsite.com"
+  website = "nova-123-gohugo.s3-website-us-west-2.amazonaws.com/"
   email = "novalailatulrizkiyah@gmail.com"
   facebook = "username"
   github = "novarizkiyah"
