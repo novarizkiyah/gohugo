@@ -1,4 +1,4 @@
-baseurl = ""
+baseUrl = "/"
 DefaultContentLanguage = "en"
 title = "Nova Rizkiyah"
 theme = "beautifulhugo"
@@ -57,14 +57,8 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
     name = "Blog"
-    url = ""
+    url = "post"
     weight = 1
-
-[[menu.main]]
-    name = "About"
-    url = "page/about/"
-    weight = 3
-
 [[menu.main]]
     identifier = "samples"
     name = "Samples"
@@ -86,6 +80,11 @@ pygmentsCodefencesGuessSyntax = true
     parent = "samples"
     name = "Code Sample"
     url = "post/2016-03-08-code-sample"
+    weight = 3
+    
+[[menu.main]]
+    name = "About"
+    url = "about"
     weight = 3
 
 [[menu.main]]
